@@ -1,0 +1,11 @@
+pointer = 1 2 3 5 4 7 6 8 9 10 11 12
+keycode  10 = exclam 1 exclam 1
+keycode  11 = at 2 quotedbl 2
+keycode  12 = numbersign 3 numerosign 3
+keycode  13 = dollar 4 semicolon 4
+keycode  14 = percent 5 percent 5
+keycode  15 = asciicircum 6 colon 6
+keycode  16 = ampersand 7 question 7
+keycode  17 = asterisk 8 asterisk 8
+keycode  18 = parenleft 9 parenleft 9
+keycode  19 = parenright 0 parenright 0
